@@ -34,7 +34,7 @@ const ProjectsData = [
     img: JobbyApp,
     name: "Jobby App",
     stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "https://bhavanebank.ccbp.tech",
+    live: "https://bhavanjobby.ccbp.tech",
     source: "https://github.com/BhavanSai12/Food-Website.git",
     description:  
         "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries.",
@@ -46,7 +46,7 @@ const ProjectsData = [
     img: FoodWebsite,
     name: "Food Website Application",
     stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
+    live: "https://bhavanworks.ccbp.tech",
     source: "https://github.com/BhavanSai12/Food-Website.git",
     description:  
         "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries.",
@@ -56,7 +56,7 @@ const ProjectsData = [
     img: TastyKitchen,
     name: "Tasty Kitchen Application",
     stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
+    live: "https://bhavantka.ccbp.tech",
     source: "https://github.com/BhavanSai12/Tasty-Kitchen.git",
     description:  
         "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries.",
@@ -66,7 +66,7 @@ const ProjectsData = [
     img: RockPaper,
     name: "Rock Paper Scissor Application",
     stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
+    live: "https://bhavanrps.ccbp.tech",
     source: "https://github.com/BhavanSai12/Rock-Paper-Scissor.git",
     description:  
         "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries.",
@@ -76,7 +76,7 @@ const ProjectsData = [
     img: TextEditor,
     name: "Text Editor Application",
     stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
+    live: "https://bhavantxtedit.ccbp.tech",
     source: "https://github.com/BhavanSai12/Text-Editor.git",
     description:  
         "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries.",
@@ -86,7 +86,7 @@ const ProjectsData = [
     img: Todo,
     name: "Todo Application",
     stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
+    live: "https://bhavantodoapp.ccbp.tech",
     source: "https://github.com/BhavanSai12/Todo-Application.git",
     description:  
         "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries.",
@@ -96,7 +96,7 @@ const ProjectsData = [
     img: Project,
     name: "Project Application",
     stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
+    live: "https://bhavanprojects.ccbp.tech",
     source: "https://github.com/BhavanSai12/ProjectWebsite.git",
     description:  
         "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries.",
@@ -106,8 +106,8 @@ const ProjectsData = [
     img: StopWatch,
     name: "StopWatch Application",
     stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
-    source: "https://github.com/BhavanSai12/ProjectWebsite.git",
+    live: "https://stopwatchtests.ccbp.tech",
+    source: "https://github.com/BhavanSai12/Stop-Watch.git",
     description:  
         "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries.",
   },
@@ -116,8 +116,8 @@ const ProjectsData = [
     img: DigitalTimer,
     name: "Digital Timer Application",
     stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
-    source: "https://github.com/BhavanSai12/ProjectWebsite.git",
+    live: "https://bhavandta.ccbp.tech",
+    source: "https://github.com/BhavanSai12/Digital-Timer.git",
     description:  
         "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries.",
   },
@@ -126,8 +126,8 @@ const ProjectsData = [
     img: CharacterCounter,
     name: "Character Counter Application",
     stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
-    source: "https://github.com/BhavanSai12/ProjectWebsite.git",
+    live: "https://bhavancharcount.ccbp.tech",
+    source: "https://github.com/BhavanSai12/Character-Count.git",
     description:  
         "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries.",
   },
